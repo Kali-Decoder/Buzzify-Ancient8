@@ -147,12 +147,8 @@ const bleTestnetNetwork = {
   },
 };
 
-export const chainArray = [taikoHeklaTestnet,rootstockTestnet,bleTestnetNetwork,etherlinkTestnet,ancient8Sepolia];
+export const chainArray = [ancient8Sepolia];
 export const transportsObject = {
-  [taikoHeklaTestnet.id]: http(),
-  [rootstockTestnet.id]: http(),
-  [bleTestnetNetwork.id]: http(),
-  [etherlinkTestnet.id]: http(),
   [ancient8Sepolia.id]: http(),
   // [baseSepolia.id]: http(),
   // [flowTestnetNetwork.id]: http(),
