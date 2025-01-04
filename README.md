@@ -29,9 +29,8 @@
 - Typescript
 - Tailwind CSS
 - Solidity
-- Ethena Network 
-- Layer Zero OFT 
-- Pyth Contract 
+- Ancient8 Testnet Network 
+
 
 
 ## Challenges and Solution
@@ -43,7 +42,7 @@
     - Users spend significant time and effort creating and engaging with content but often feel that their contributions are undervalued.
 
 
-## CREATOR PLATFORM TRAC:
+## CREATOR PLATFORM TRACK
 
 - **1. Ancient8 Testnet:** <br/>
   - BuzziFy Buzz Token(Contract Address ): 0x394b899AAb17EfCF200AA3F9ce12F6fDf740E6Aa) :
