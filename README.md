@@ -89,12 +89,6 @@
 
 
 ### Platform UI 
-![6096066066871598693](https://github.com/user-attachments/assets/05a7be99-999a-4713-8634-4b1dfccdcae8)
-![6096066066871598694](https://github.com/user-attachments/assets/da1f1da8-8b3a-4999-af2e-968368d5800c)
-![6096066066871598691](https://github.com/user-attachments/assets/353c7753-bb8e-4e50-87af-fc169515a355)
-![6096066066871598692](https://github.com/user-attachments/assets/61be2eb2-7b3c-4873-9d70-9d0e27f73157)
-![6096066066871598697](https://github.com/user-attachments/assets/33c61804-d027-488a-aa3c-9bb91b078a46)
-![6096066066871598690](https://github.com/user-attachments/assets/063f144c-d4cc-4fbf-b57a-d96165677283)
 
 
 
