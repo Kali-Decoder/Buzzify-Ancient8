@@ -78,6 +78,15 @@
 
 
 ### Platform UI 
+<img width="1467" alt="Screenshot 2025-01-04 at 4 09 19 PM" src="https://github.com/user-attachments/assets/7711ec31-0fbd-48ae-9f24-3eedeb29ea28" />
+<img width="1459" alt="Screenshot 2025-01-04 at 4 09 39 PM" src="https://github.com/user-attachments/assets/a0ed6416-58fe-4e38-aa31-6542e2fd6f03" />
+<img width="1470" alt="Screenshot 2025-01-04 at 4 09 46 PM" src="https://github.com/user-attachments/assets/2c30d99f-abb5-4e68-baee-c9de75157b78" />
+<img width="1470" alt="Screenshot 2025-01-04 at 4 11 10 PM" src="https://github.com/user-attachments/assets/6c730245-0234-4f16-a87d-56ee2469e941" />
+<img width="1470" alt="Screenshot 2025-01-04 at 4 10 09 PM" src="https://github.com/user-attachments/assets/cef887bd-7015-40ae-8c8e-5b027fd1a73a" />
+<img width="1470" alt="Screenshot 2025-01-04 at 4 10 00 PM" src="https://github.com/user-attachments/assets/92265fd0-01bb-4832-9479-da149af39dfd" />
+
+
+
 
 
 
